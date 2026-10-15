@@ -2,13 +2,13 @@
 <img width="437" height="446" alt="Screenshot 2026-10-15 at 9 31 20 AM" src="https://github.com/user-attachments/assets/b2037fe2-b697-4fdd-aecd-e16ecd9e3fcd" />
 
 ## Groups
-1. Jacob / Andrew / Allison
-2. Angel / Hunter / Khanh
-3. Mucteba / Archana / Ryan
-4. Mayowa / Braden / Peyton / Anish
-5. Ethan / Rodney / Eswar
-6. Toby / Michael / Melusi
-7. Brendon / Emily / Nathan
+1. Jacob / Andrew / Allison / (Gavin)
+2. Angel / Hunter / Khanh / (Basil)
+3. Mucteba / Archana / Ryan / (Raj, Tyler)
+4. Mayowa / Braden / Peyton / Anish / (Ahmad)
+5. Ethan / Rodney / Eswar / (Stephanie)
+6. Toby / Michael / Melusi / (Chloe)
+7. Brendon / Emily / Nathan / (Tafari)
    
 ## Resources
 * [Materials](https://learn.neueda.com/086655)
