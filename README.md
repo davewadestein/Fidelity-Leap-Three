@@ -14,3 +14,6 @@
 * [Materials](https://learn.neueda.com/086655)
 * [Labs](https://github.com/nicktodd/leap-labs)
 * [What happens to the scooter when you build the bicycle?](https://uxdesign.cc/mvpdesign-831f38695f77)
+
+## Food for thought
+* "What's more important ... well-defined user stories, or well-written code?"
