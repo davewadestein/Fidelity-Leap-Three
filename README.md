@@ -1,5 +1,5 @@
 # Fidelity-Leap-Three
-<img width="437" height="446" alt="Screenshot 2026-10-15 at 9 31 20 AM" src="https://github.com/user-attachments/assets/44bd7b71-a673-4831-896b-61106dafd3bc" />
+<img width="437" height="446" alt="Screenshot 2026-10-15 at 9 31 20 AM" src="https://github.com/user-attachments/assets/b2037fe2-b697-4fdd-aecd-e16ecd9e3fcd" />
 
 ## Groups
 1. Jacob / Andrew / Allison
