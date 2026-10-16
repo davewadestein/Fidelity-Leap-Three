@@ -16,6 +16,7 @@
 * [Your Project](https://github.com/nicktodd/leap3-project/blob/main/README.md)
 * [What happens to the scooter when you build the bicycle?](https://uxdesign.cc/mvpdesign-831f38695f77)
 * [Visualize Git Branching](https://learngitbranching.js.org/?locale=en_US)
+* [Better–I think–git visualization tool](https://git-school.github.io/visualizing-git/)
 
 ## Food for thought
 * "What's more important ... well-defined user stories, or well-written code?"
