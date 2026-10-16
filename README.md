@@ -24,4 +24,4 @@
 ## Food for thought
 * "What's more important ... well-defined user stories, or well-written code?"
   * (The most expensive mistake is delivering the wrong outcome, not delivering the right outcome imperfectly.)
-
+* “Programs must be written for people to read, and only incidentally for machines to execute.” –Harold (Hal) Abelson
