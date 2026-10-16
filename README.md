@@ -17,6 +17,8 @@
 * [What happens to the scooter when you build the bicycle?](https://uxdesign.cc/mvpdesign-831f38695f77)
 * [Visualize Git Branching](https://learngitbranching.js.org/?locale=en_US)
 * [Better–I think–git visualization tool](https://git-school.github.io/visualizing-git/)
+  * ...but was created before __git switch__ / __main__ came into being
+  * so you'll need to use __git checkout__ and __master__
 
 ## Food for thought
 * "What's more important ... well-defined user stories, or well-written code?"
