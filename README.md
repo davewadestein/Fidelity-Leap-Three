@@ -13,6 +13,7 @@
 ## Resources
 * [Materials](https://learn.neueda.com/086655)
 * [Labs](https://github.com/nicktodd/leap-labs)
+* [Your Project](https://github.com/nicktodd/leap3-project/blob/main/README.md)
 * [What happens to the scooter when you build the bicycle?](https://uxdesign.cc/mvpdesign-831f38695f77)
 * [Visualize Git Branching](https://learngitbranching.js.org/?locale=en_US)
 
